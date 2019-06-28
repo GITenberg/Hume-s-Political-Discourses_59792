@@ -1,0 +1,27 @@
+_repo: Hume-s-Political-Discourses_59792
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hume, David
+    birthdate: 1711
+    deathdate: 1776
+    gutenberg_agent_id: '1440'
+    url: http://www.gutenberg.org/2009/agents/1440
+    wikipedia: http://en.wikipedia.org/wiki/David_Hume
+  editor:
+    agent_name: Robertson, William Bell
+    gutenberg_agent_id: '50628'
+    url: http://www.gutenberg.org/2009/agents/50628
+description: ''
+gutenberg_issued: '2019-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hume's Political Discourses
+url: http://www.gutenberg.org/ebooks/59792
